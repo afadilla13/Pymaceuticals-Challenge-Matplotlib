@@ -5,7 +5,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
-**Code**
+**Codes**
 This script merged both of the mouse data and study result into one for better analysis.
 First, it calculates the total number of mouse and find the duplicate mouse and clean them from the data that we want to analyse. And then calculates the statistic summary from the clean data and grouped by the drug regimen.
 
