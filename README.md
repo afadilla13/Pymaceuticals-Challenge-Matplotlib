@@ -20,4 +20,3 @@ Gender distribution between male and female are almost equal amount in the study
 Potential outlier in Infubinol drug regimen in the analysis of tumor volume, this indicates anomalies and needs to be investigated.
 Mouse treated with Capomulin seems to be reducing tumor size over time, this suggest this drug has positive effect.
 There is a positive relationship between Mouse weight and Tumor volume, where the scatter plot and linier regression within the Capomulin regimen indicates, mouse with higher weights tend to have larger tumor volumes. 
-Shout out to redeat17 for the codes that I referred to.
